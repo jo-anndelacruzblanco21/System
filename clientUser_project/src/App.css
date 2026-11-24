@@ -1,0 +1,15 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background: #fff;
+}
+
+.page-content {
+  flex: 1;
+  width: 100%;
+  min-height: 14rem;
+  color: #344b5e;
+  font-size: 1.05rem;
+  line-height: 1.7;
+}
